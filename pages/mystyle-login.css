@@ -1,0 +1,32 @@
+/*This Styles are Related to Login Page in Heaven's Path*/
+/*body{
+	color: white;
+}*/
+.page-header{
+	min-height:100vh;
+	max-height: 999px;
+	border-radius: 0px;
+}
+.login-page .page-header:before, 
+.profile-page .page-header:before{
+  background-color: rgba(56, 29, 9, 50%);
+}
+.footer.footer.footer-default{
+	color: white;
+	background-color: transparent;
+}
+a.footer-weight{
+	font-weight: bolder;
+}
+.logo-container{
+	height: 50%;
+}
+div.card-body{
+	height: 8.125rem;
+}
+.getstarted-login{
+	background-color: #32b9f9;
+}
+.getstarted-login:hover{
+	background-color: #00a3f1	
+}
